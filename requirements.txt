@@ -1,5 +1,3 @@
-coffee-livelihood-resilience-sim
-
 mesa==2.2.1
 pandas>=2.0.0
 numpy>=1.24.0
