@@ -1,4 +1,5 @@
 # Smallholder Livelihood Resilience Simulator
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
 
 ## Description
 This project is an agent-based simulation model designed to evaluate the resilience of smallholder farming households under climate and economic shocks. It enables dynamic testing of different intervention strategies over time.
